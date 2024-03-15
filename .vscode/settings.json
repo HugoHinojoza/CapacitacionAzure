@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/0705974b-40ca-4047-a724-d1e3634d9b37/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/CapacitacionAzureHugo",
+    "appService.deploySubpath": "."
+}
